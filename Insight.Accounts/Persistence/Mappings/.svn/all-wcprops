@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Mappings
+END
+Contact.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Mappings/Contact.hbm.xml
+END
+Account.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Mappings/Account.hbm.xml
+END
+ServiceLevelAgreement.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Mappings/ServiceLevelAgreement.hbm.xml
+END
+ContactAddress.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Mappings/ContactAddress.hbm.xml
+END
+AccountAddress.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Mappings/AccountAddress.hbm.xml
+END
+ContactEmail.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Mappings/ContactEmail.hbm.xml
+END
+IndustryType.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Mappings/IndustryType.hbm.xml
+END
+AccountAttachment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DPProjects/!svn/ver/448/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Mappings/AccountAttachment.hbm.xml
+END
+Equipment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DPProjects/!svn/ver/448/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Mappings/Equipment.hbm.xml
+END
+EquipmentType.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Mappings/EquipmentType.hbm.xml
+END

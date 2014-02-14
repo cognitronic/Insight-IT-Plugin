@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Interfaces/Data
+END
+IAccountAddressRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Interfaces/Data/IAccountAddressRepository.cs
+END
+IContactEmailRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Interfaces/Data/IContactEmailRepository.cs
+END
+IIndustryTypeRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Interfaces/Data/IIndustryTypeRepository.cs
+END
+IEquipmentRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Interfaces/Data/IEquipmentRepository.cs
+END
+IEquipmentTypeRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Interfaces/Data/IEquipmentTypeRepository.cs
+END
+IContactRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Interfaces/Data/IContactRepository.cs
+END
+IAccountRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Interfaces/Data/IAccountRepository.cs
+END
+IServiceLevelAgreementRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Interfaces/Data/IServiceLevelAgreementRepository.cs
+END
+IContactAddressRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Interfaces/Data/IContactAddressRepository.cs
+END

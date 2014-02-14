@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Repositories
+END
+ContactRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Repositories/ContactRepository.cs
+END
+AccountRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DPProjects/!svn/ver/448/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Repositories/AccountRepository.cs
+END
+ServiceLevelAgreementRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Repositories/ServiceLevelAgreementRepository.cs
+END
+ContactAddressRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Repositories/ContactAddressRepository.cs
+END
+AccountAddressRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Repositories/AccountAddressRepository.cs
+END
+ContactEmailRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Repositories/ContactEmailRepository.cs
+END
+IndustryTypeRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Repositories/IndustryTypeRepository.cs
+END
+AccountAttachmentRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DPProjects/!svn/ver/448/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Repositories/AccountAttachmentRepository.cs
+END
+EquipmentRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Repositories/EquipmentRepository.cs
+END
+EquipmentTypeRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Persistence/Repositories/EquipmentTypeRepository.cs
+END

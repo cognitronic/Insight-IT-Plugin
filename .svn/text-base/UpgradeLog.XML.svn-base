@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Insight.Plugins.IT">
+</Property><Property Name="Solution File" Value="d:\Projects\Insight.Plugins.IT\Insight.Plugins.IT.sln">
+</Property><Property Name="Date" Value="Tuesday, January 04, 2011">
+</Property><Property Name="Time" Value="8:13:43 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Insight.Accounts.csproj" Description="Project file successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Insight.Accounts.csproj">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Core\Domain\Account.cs" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Core\Domain\Account.cs">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Core\Domain\Equipment.cs" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Core\Domain\Equipment.cs">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Core\Domain\EquipmentType.cs" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Core\Domain\EquipmentType.cs">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Core\Interfaces\Data\IEquipmentRepository.cs" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Core\Interfaces\Data\IEquipmentRepository.cs">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Core\Interfaces\IAccount.cs" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Core\Interfaces\IAccount.cs">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Core\Interfaces\IEquipment.cs" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Core\Interfaces\IEquipment.cs">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Core\Interfaces\IEquipmentType.cs" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Core\Interfaces\IEquipmentType.cs">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Persistence\Repositories\EquipmentRepository.cs" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Persistence\Repositories\EquipmentRepository.cs">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Presenters\EquipmentListPresenter.cs" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Presenters\EquipmentListPresenter.cs">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Presenters\ViewInterfaces\IEquipmentListView.cs" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Presenters\ViewInterfaces\IEquipmentListView.cs">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Properties\AssemblyInfo.cs" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Services\EquipmentServices.cs" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Services\EquipmentServices.cs">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Web\Routing\AccountsHTTPModule.cs" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Web\Routing\AccountsHTTPModule.cs">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Web\Routing\EquipmentRouteHandler.cs" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Web\Routing\EquipmentRouteHandler.cs">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Web\Routing\RouteBuilder.cs" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Web\Routing\RouteBuilder.cs">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Persistence\Mappings\Equipment.hbm.xml" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Persistence\Mappings\Equipment.hbm.xml">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Persistence\Mappings\EquipmentType.hbm.xml" Description="File successfully backed up as d:\Projects\Insight.Plugins.IT\Backup\Persistence\Mappings\EquipmentType.hbm.xml">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Insight.Accounts.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Insight.Accounts" Source="Insight.Accounts\Insight.Accounts.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Insight.Accounts" Source="Insight.Accounts\Insight.Accounts.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

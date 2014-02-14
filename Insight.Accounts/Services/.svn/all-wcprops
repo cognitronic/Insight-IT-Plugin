@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Services
+END
+EquipmentServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Services/EquipmentServices.cs
+END
+ContactServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DPProjects/!svn/ver/448/trunk/Insight.Plugins.IT/Insight.Accounts/Services/ContactServices.cs
+END
+AccountServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DPProjects/!svn/ver/448/trunk/Insight.Plugins.IT/Insight.Accounts/Services/AccountServices.cs
+END
+ServiceLevelAgreementServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Services/ServiceLevelAgreementServices.cs
+END
+ContactAddressServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Services/ContactAddressServices.cs
+END
+AccountAddressServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Services/AccountAddressServices.cs
+END
+ContactEmailServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Services/ContactEmailServices.cs
+END
+IndustryTypeServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Services/IndustryTypeServices.cs
+END
+AccountAttachmentServices.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DPProjects/!svn/ver/448/trunk/Insight.Plugins.IT/Insight.Accounts/Services/AccountAttachmentServices.cs
+END

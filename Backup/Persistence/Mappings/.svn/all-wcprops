@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Backup/Persistence/Mappings
+END
+Equipment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Backup/Persistence/Mappings/Equipment.hbm.xml
+END
+EquipmentType.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Backup/Persistence/Mappings/EquipmentType.hbm.xml
+END

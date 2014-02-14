@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Domain
+END
+Contact.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DPProjects/!svn/ver/448/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Domain/Contact.cs
+END
+Account.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Domain/Account.cs
+END
+AccountApplication.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Domain/AccountApplication.cs
+END
+ServiceLevelAgreement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Domain/ServiceLevelAgreement.cs
+END
+ContactAddress.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Domain/ContactAddress.cs
+END
+AccountAddress.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Domain/AccountAddress.cs
+END
+AccountApplicationType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Domain/AccountApplicationType.cs
+END
+ContactEmail.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Domain/ContactEmail.cs
+END
+IndustryType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Domain/IndustryType.cs
+END
+PayrollAccountApplication.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Domain/PayrollAccountApplication.cs
+END
+AccountAttachment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DPProjects/!svn/ver/448/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Domain/AccountAttachment.cs
+END
+AccountSearchProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Domain/AccountSearchProperty.cs
+END
+Equipment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Domain/Equipment.cs
+END
+EquipmentType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Core/Domain/EquipmentType.cs
+END

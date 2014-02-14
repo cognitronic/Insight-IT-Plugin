@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters
+END
+EquipmentPropertiesPresenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DPProjects/!svn/ver/448/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters/EquipmentPropertiesPresenter.cs
+END
+ContactListPresenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters/ContactListPresenter.cs
+END
+AccountListPresenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DPProjects/!svn/ver/448/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters/AccountListPresenter.cs
+END
+ContactAddressListPresenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters/ContactAddressListPresenter.cs
+END
+AccountAddressListPresenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters/AccountAddressListPresenter.cs
+END
+ContactEmailListPresenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters/ContactEmailListPresenter.cs
+END
+AccountAttachmentListPresenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DPProjects/!svn/ver/448/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters/AccountAttachmentListPresenter.cs
+END
+EquipmentListPresenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DPProjects/!svn/ver/448/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters/EquipmentListPresenter.cs
+END
+ContactPropertiesPresenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters/ContactPropertiesPresenter.cs
+END
+AccountPropertiesPresenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters/AccountPropertiesPresenter.cs
+END
+AccountProfilePresenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DPProjects/!svn/ver/448/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters/AccountProfilePresenter.cs
+END
+ContactAddressPropertiesPresenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters/ContactAddressPropertiesPresenter.cs
+END
+AccountAddressPropertiesPresenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters/AccountAddressPropertiesPresenter.cs
+END
+ContactEmailPropertiesPresenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters/ContactEmailPropertiesPresenter.cs
+END
+AccountAttachmentPropertiesPresenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DPProjects/!svn/ver/448/trunk/Insight.Plugins.IT/Insight.Accounts/Presenters/AccountAttachmentPropertiesPresenter.cs
+END

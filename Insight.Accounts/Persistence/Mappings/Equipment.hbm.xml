@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+assembly="Insight.Accounts"
+namespace="Insight.Accounts.Core.Domain">
+    <class name="Equipment" table="Equipment">
+        <id name="ID" column="ID">
+            <generator class="identity"></generator>
+        </id>
+        <property name="Name" />
+        <property name="Description" />
+        <property name="EnteredBy" />
+        <property name="ChangedBy" />
+        <property name="DateCreated" />
+        <property name="LastUpdated" />
+        <property name="MarkedForDeletion" />
+        <property name="IPAddress" />
+        <property name="Username" />
+        <property name="Password" />
+        <property name="Model" />
+        <property name="KeyFunctions" />
+        <property name="PurchaseDate" />
+        <property name="SupportExpirationDate" />
+        <property name="WarrantyExpirationDate" />
+        <property name="WarrantyNotes" />
+        <property name="PhysicalLocationDescription" />
+        <property name="AccountID" insert="false" update="false" />
+        <property name="OperatingSystemID" />
+        <property name="EquipmentTypeID" insert="false" update="false" />
+        <property name="OtherInfo" />
+        <many-to-one name="Account" class="Insight.Accounts.Core.Domain.Account, Insight.Accounts" column="AccountID"/>
+        <many-to-one name="EquipmentType" class="Insight.Accounts.Core.Domain.EquipmentType, Insight.Accounts" column="EquipmentTypeID"/>
+    </class>
+
+</hibernate-mapping>

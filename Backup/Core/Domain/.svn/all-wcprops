@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Backup/Core/Domain
+END
+Account.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Backup/Core/Domain/Account.cs
+END
+Equipment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Backup/Core/Domain/Equipment.cs
+END
+EquipmentType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DPProjects/!svn/ver/328/trunk/Insight.Plugins.IT/Backup/Core/Domain/EquipmentType.cs
+END
